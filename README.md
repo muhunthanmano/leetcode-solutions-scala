@@ -2,4 +2,5 @@
 
 The added solutions are
 
- - [Merge Two Sorted Lists](https://github.com/joemccann/dillinger)
+ - [Group Permutations](https://leetcode.com/problems/permutations/description/)
+ - [Anagram](https://leetcode.com/problems/group-anagrams/description/)
